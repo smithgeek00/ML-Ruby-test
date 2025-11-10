@@ -23,11 +23,11 @@ Appium Inspector (para debugging)
 
 Estructura del Proyecto
 
-ML-Ruby-Test/
-*mercado_test.rb           # Script principal
-*mercado_test_simple.rb    # Versión con búsqueda manual
-DIR- *screenshots/              # Capturas automáticas
-* Gemfile                   # Dependencias Ruby
+CARPETA PRINCIPAL: ML-Ruby-Test/
+CARPETA CAPTURAS *screenshots/ ->       Capturas automáticas
+*mercado_test.rb ->                     Script principal
+*mercado_test_simple.rb->               Versión con búsqueda manual
+*Gemfile ->                             Dependencias Ruby
 -> README.md
 
 ** Instalación
@@ -40,7 +40,7 @@ Requisitos Previos
 
 Pasos de Instalación
 1. Clonar el repositorio
-bashgit clone https://github.com/TU_USUARIO/ML-Ruby-Test.git
+bashgit clone https://github.com/smithgeek00/ML-Ruby-Test.git
 cd ML-Ruby-Test
 2. Instalar Ruby (Windows)
 bash# Descargar desde: https://rubyinstaller.org/
