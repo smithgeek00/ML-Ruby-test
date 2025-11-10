@@ -21,14 +21,25 @@ Android SDK
 Appium Inspector (para debugging)
 
 
-Estructura del Proyecto
+**Estructura del Proyecto**
 
 CARPETA PRINCIPAL: ML-Ruby-Test/
+
 CARPETA CAPTURAS *screenshots/ ->       Capturas automáticas
+
+
 *mercado_test.rb ->                     Script principal
+
+
 *mercado_test_simple.rb->               Versión con búsqueda manual
+
+
 *Gemfile ->                             Dependencias Ruby
+
+
 -> README.md
+
+
 
 ** Instalación
 Requisitos Previos
