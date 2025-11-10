@@ -146,7 +146,7 @@ Documentación: Registro del proceso y soluciones
 -Documentación técnica clara
 
 
-**Autor: BARCENAS RESENDIZ LUIS ALBERTP
+**Autor: BARCENAS RESENDIZ LUIS ALBERTO
 
 GitHub: @smithgeek00
 Email: nyangeek@gmail.com
